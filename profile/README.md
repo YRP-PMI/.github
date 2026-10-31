@@ -23,6 +23,6 @@ the snowmobile industry.
 
 ## This GitHub organization
 
-Source code for internal Place Manufacturing projects. Most repositories are
-private and not publicly browsable; public-facing repositories are published
-as they ship.
+Source code for internal Place Manufacturing projects. Project repositories
+are private and not publicly browsable; this profile is the only public
+repository.
